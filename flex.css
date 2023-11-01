@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box-wrapper{
+    border: 10px solid #222;
+}
+
+.box-1{
+    border: 1px solid lightcyan;
+}
+
+.box-2{
+    border: 1px solid lightblue;
+}
+
+.box-3{
+    border: 1px solid lightpink;
+}
+
+.box-4{
+    border: 1px solid lightgreen;
+}
+
+.box-5{
+    border: 1px solid lightslategray;
+}
